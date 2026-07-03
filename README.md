@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @adhikary-a
-- 👀 I’m interested in Bioinformatics, Computer Vision, Deep Learning
-- 🌱 I’m currently working as an Associate Research Engineer @ IDEAS-TIH, ISI Kolkata, WB, India
+- 👀 I’m interested in Computational Biology, Machine Learning
+- 🌱 I’m currently working as a Junior Research Fellow @ Bose Institute, Kolkata, WB, India
 - 💞️ I’m looking to collaborate on bioinformatics-related deep-learning research projects
 - 📫 You can reach me via archismanadhikary@gmail.com
+
+- I have reviewed several conferences since 2024, and have been an author and co-author in a few scholarly articles that have been accepted in conferences and journals
 <!---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
